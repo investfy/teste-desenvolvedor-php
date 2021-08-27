@@ -32,13 +32,9 @@ Buscamos profissionais que sejam apaixonados por desenvolvimento, inovação e n
 - Conhecimentos em serviços AWS;
 - Experiência com metodologias ágeis, preferencialmente Scrum.
 
-## Benefícios
-
-- ...
-
 ## Contratação
 
-Regime: ...
+Regime: A combinar
 
 ## Como se candidatar
 
